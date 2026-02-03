@@ -1,3 +1,4 @@
+README
 ### Hi there, I'm Mete Alper! 👋
 
 I'm a senior **Information Systems Engineering** student @ Piri Reis University, passionate about the intersection of **Artificial Intelligence** and **Cybersecurity**. My work focuses on building intelligent systems that can predict, detect, and analyze complex patterns.
